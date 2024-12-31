@@ -1,19 +1,26 @@
-# mMARS (multi-Modal AI Research Software) 
+# M.A.R.S (Multi-modal AI Research System) 
 
 
-## Experience the power of mMARS - your ultimate AI assistant, like a chatbot on steroids!
+
+[*M.A.R.S demonstration video*](https://github.com/user-attachments/assets/f6ef7dda-727a-4e59-b5b3-656f49d1c3f3)
+
+# Try It Now!
+Experience the power of M.A.R.S yourself by visiting [M.A.R.S Web App](https://m-a-r-s.streamlit.app/).
+
+## Experience the power of M.A.R.S - your ultimate AI assistant, like a chatbot on steroids!
 
 ## Introduction
-mMARS (multi-Modal AI Research System) is an innovative platform designed to revolutionize information access by seamlessly integrating various artificial intelligence technologies. Developed by Sahil Bhoite, this project aims to provide users with comprehensive capabilities for extracting, analyzing, and interpreting data from a wide range of file formats.
+M.A.R.S (Multi-modal AI Research System) is an innovative platform designed to revolutionize information access by seamlessly integrating various artificial intelligence technologies. Developed by Sahil Bhoite, this project aims to provide users with comprehensive capabilities for extracting, analyzing, and interpreting data from a wide range of file formats.
 
 ## Key Features
-- **Intelligent File Extraction:** mMARS employs advanced AI algorithms to extract key information from diverse file types, including PDFs, audio files, images, code snippets, and more.
-- **User-Friendly Interface:** With its intuitive interface, mMARS ensures a seamless user experience, allowing individuals to navigate through files, analyze content, and perform tasks with ease.
-- **Versatile Functionality:** From querying file contents and conducting data analysis to generating commands and creating presentations, mMARS offers a myriad of functionalities to meet the diverse needs of its users.
-- **Cutting-Edge AI Technologies:** Powered by state-of-the-art AI technologies, including natural language processing (NLP), optical character recognition (OCR), and speech recognition, mMARS delivers accurate results and enhances productivity.
-- **Streamlined File Management:** By simplifying file management processes and optimizing workflows, mMARS enables users to streamline their tasks and focus on driving innovation and growth.
+- **Intelligent File Extraction:** M.A.R.S employs advanced AI algorithms to extract key information from diverse file types, including PDFs, audio files, images, code snippets, and more.
+- **User-Friendly Interface:** With its intuitive interface, M.A.R.S ensures a seamless user experience, allowing individuals to navigate through files, analyze content, and perform tasks with ease.
+- **Versatile Functionality:** From querying file contents and conducting data analysis to generating commands and creating presentations, M.A.R.S offers a myriad of functionalities to meet the diverse needs of its users.
+- **Cutting-Edge AI Technologies:** Powered by state-of-the-art AI technologies, including natural language processing (NLP), optical character recognition (OCR), and speech recognition, M.A.R.S delivers accurate results and enhances productivity.
+- **Streamlined File Management:** By simplifying file management processes and optimizing workflows, M.A.R.S enables users to streamline their tasks and focus on driving innovation and growth.
 
 ## File Type Support
+M.A.R.S supports a wide range of file types, including:
 1. PDF
 2. PPT/PPTX
 3. Python scripts (.py)
@@ -63,15 +70,17 @@ mMARS (multi-Modal AI Research System) is an innovative platform designed to rev
 - **Web Scraping:** Extracting information from web pages for data collection or analysis.
 
 ## Conclusion
-With its comprehensive set of features and cutting-edge AI technologies, mMARS empowers users to unlock the full potential of their data and streamline their workflows. Whether it's extracting insights from documents, analyzing code, or transcribing audio, mMARS offers unparalleled capabilities for information access and analysis.
+With its comprehensive set of features and cutting-edge AI technologies, M.A.R.S empowers users to unlock the full potential of their data and streamline their workflows. Whether it's extracting insights from documents, analyzing code, or transcribing audio, M.A.R.S offers unparalleled capabilities for information access and analysis.
 
 ## Getting Started
-To get started with mMARS, follow these steps:
+To get started with M.A.R.S, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. You can get your Google API key [here](https://ai.google.dev/tutorials/setup). Run the `mmars.py` file to launch the application.
+3. You can get your Google API key [here](https://ai.google.dev/tutorials/setup). Run the `mars.py` file to launch the application.
 4. Upload your files and start exploring the various functionalities offered by M.A.R.S.
 
 ## Feedback and Contributions
-Your feedback is valuable in improving mMARS and making it even more useful for users. If you encounter any issues or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request on GitHub.
+Your feedback is valuable in improving M.A.R.S and making it even more useful for users. If you encounter any issues or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request on GitHub.
 
+## License
+This project is licensed under the [Apache License](LICENSE).
