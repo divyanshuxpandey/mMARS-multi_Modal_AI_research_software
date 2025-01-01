@@ -6,7 +6,7 @@ mMARS (Multi-modal AI Research Software) is an innovative platform designed to r
 ## Key Features
 - **Intelligent File Extraction:** mMARS employs advanced AI algorithms to extract key information from diverse file types, including PDFs, audio files, images, code snippets, and more.
 - **User-Friendly Interface:** With its intuitive interface, mMARS ensures a seamless user experience, allowing individuals to navigate through files, analyze content, and perform tasks with ease.
-- **Versatile Functionality:** From querying file contents and conducting data analysis to generating commands and creating presentations, M.A.R.S offers a myriad of functionalities to meet the diverse needs of its users.
+- **Versatile Functionality:** From querying file contents and conducting data analysis to generating commands and creating presentations, mMARS offers a myriad of functionalities to meet the diverse needs of its users.
 - **Cutting-Edge AI Technologies:** Powered by state-of-the-art AI technologies, including natural language processing (NLP), optical character recognition (OCR), and speech recognition, mMARS delivers accurate results and enhances productivity.
 - **Streamlined File Management:** By simplifying file management processes and optimizing workflows, mMARS enables users to streamline their tasks and focus on driving innovation and growth.
 
