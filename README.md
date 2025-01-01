@@ -1,7 +1,7 @@
 # mMARS (Multimodal AI Research Software) 
 
 ## Introduction
-mMARS (Multi-modal AI Research Software) is an innovative platform designed to revolutionize information access by seamlessly integrating various artificial intelligence technologies. Developed by Sahil Bhoite, this project aims to provide users with comprehensive capabilities for extracting, analyzing, and interpreting data from a wide range of file formats.
+mMARS (Multi-modal AI Research Software) is an innovative platform designed to revolutionize information access by seamlessly integrating various artificial intelligence technologies. Developed by me, this project aims to provide users with comprehensive capabilities for extracting, analyzing, and interpreting data from a wide range of file formats.
 
 ## Key Features
 - **Intelligent File Extraction:** mMARS employs advanced AI algorithms to extract key information from diverse file types, including PDFs, audio files, images, code snippets, and more.
